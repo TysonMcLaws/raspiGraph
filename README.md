@@ -7,6 +7,8 @@ getDataFake.py generates random numbers for the time perdiod you set and the fre
 
 graphTest.py graphs the result.
 
+RPi_GPIO is an image of the pinout used.
+
 Result Sample:
 
 0,0,1,0,1,0,0,1,0,017,0,0,0,0,0,0,1,1,0,010,1,1,0,1,1,1,1,1,0,020,
