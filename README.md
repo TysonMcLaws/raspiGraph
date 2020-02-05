@@ -16,3 +16,13 @@ Result Sample:
 **You need the last comma
 
 ***Runs in sets of ten (Index [0-8]-Inputs && Index [9]-Time (Seconds && 2 Microsecond Didgets))
+
+1 Install Code
+1.1 git https://github.com/TysonMcLaws/raspiGraph.git
+
+2 Install Library
+2.1 sudo apt install python3-dev
+2.2 sudo pip3 install cairocffi
+2.3 sudo pip3 install matplotlib
+2.4 sudo pip3 install python3-matplotlib
+2.5 sudo apt-get install python3-matplotlib
